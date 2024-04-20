@@ -1,5 +1,6 @@
 body {
   background-color: rgba(199, 97, 71, 0.4);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
@@ -61,6 +62,10 @@ form {
   border-left: 5px solid rgb(156, 4, 4);
   border-radius: 4px;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
+}
+
+.poem strong {
+  color: rgb(156, 4, 4);
 }
 
 footer {
